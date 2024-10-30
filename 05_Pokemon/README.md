@@ -1,8 +1,11 @@
-# React + Vite
+# The React Bootcamp from udemy.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Hooks, Context, NextJs, Router
 
-Currently, two official plugins are available:
+### Lectures:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+03 - Conditional rendering. Props.
+04 - Loops in React - .map() method.
+05 - .defaultProps
+05 - Arrays[] + logic.
+05 - Pokemon Game -> Props, arrays, conditional statement, logic, components hierarchy, styling.
