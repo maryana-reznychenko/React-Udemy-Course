@@ -9,3 +9,5 @@
 05 - .defaultProps\
 05 - Arrays[] + logic.\
 05 - Pokemon Game -> Props, arrays, conditional statement, logic, components hierarchy, styling.\
+06 - Hooks & useState()\
+06 - Custom Hook - useToggle on useState\
