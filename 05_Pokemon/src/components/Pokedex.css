@@ -2,4 +2,12 @@
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  margin: 1em;
+}
+
+.Pokedex-winner {
+  color: #04c90e;
+}
+.Pokedex-looser {
+  color: #c41f37;
 }
