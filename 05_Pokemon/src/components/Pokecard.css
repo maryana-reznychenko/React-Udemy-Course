@@ -6,6 +6,32 @@
   background-color: aliceblue;
   border-radius: 5px;
 }
+
+.Pokecard-title {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.Pokecard-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 18rem;
+  border-radius: 5px;
+  background-color: #eceff1;
+  margin: 0.5rem;
+}
+
+.Pokecard img {
+  transition: all ease-in;
+}
+
+.Pokecard img:hover {
+  transform: scale(1.25);
+  opacity: 0.8;
+  transition: 1s;
+}
+
 .Pokecard-data {
   font-size: 80%;
 }
