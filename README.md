@@ -11,3 +11,4 @@
 05 - Pokemon Game -> Props, arrays, conditional statement, logic, components hierarchy, styling.\
 06 - Hooks & useState()\
 06 - Custom Hook - useToggle on useState\
+07 - Custom Hook - useInputState on useState to manage input behaviour\
