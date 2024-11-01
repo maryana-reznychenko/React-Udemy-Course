@@ -12,3 +12,5 @@
 06 - Hooks & useState()\
 06 - Custom Hook - useToggle on useState\
 07 - Custom Hook - useInputState on useState to manage input behaviour\
+08 - useEffect hook\
+08 - useEffect hook for API-calls or HTTP requests. AXIOUS packages are used -> Promise based HTTP client for the browser and node.js\
