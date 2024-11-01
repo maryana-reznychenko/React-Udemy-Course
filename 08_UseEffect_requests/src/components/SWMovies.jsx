@@ -14,15 +14,15 @@ const SWMovies = () => {
     fetchData();
   }, [number]); //only when the number is changed, the one fetch will happen from useEffect.
 
-  // We can have other code run when something else changes if we need
+  // We can have other code run when something else changes if we need:
   // useEffect(() => {
   //   async function fetchData() {
-  //     const res = await axios.get(`https://swapi.dev/api/films/${number}`);
+  //     const res = await axios.get(`https://swapi.dev/api/films/${somethingOtherChanges}`);
   //     console.log(res);
   //     setMovie(res.data);
   //   }
   //   fetchData();
-  // }, [somethingOtherChanges]);
+  // }, [somethingOtherChanges, andMoreChanges, andSoOn]);
 
   return (
     <div>
