@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const SimpleFormHooks = () => {
+const SimpleFormHook = () => {
   const [email, setEmail] = useState("");
   //e = event
   const handleChange = (e) => {
@@ -16,4 +16,4 @@ const SimpleFormHooks = () => {
   );
 };
 
-export default SimpleFormHooks;
+export default SimpleFormHook;

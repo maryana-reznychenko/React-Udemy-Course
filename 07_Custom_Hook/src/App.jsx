@@ -1,11 +1,11 @@
 import "./App.css";
-import SimpleFormHooks from "./components/SimpleFormHooks";
+import SimpleFormHook from "./components/SimpleFormHook";
 import SimpleFormInputHook from "./components/SimpleFormInputHook";
 
 function App() {
   return (
     <div>
-      <SimpleFormHooks />
+      <SimpleFormHook />
 
       <SimpleFormInputHook />
     </div>
