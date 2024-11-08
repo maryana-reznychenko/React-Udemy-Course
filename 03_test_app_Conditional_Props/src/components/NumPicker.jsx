@@ -14,7 +14,7 @@ const NumPicker = () => {
     msg = (
       <div>
         <h2>CONGRATULATION!</h2>
-        <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" />{" "}
+        <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" />
       </div>
     );
   } else {

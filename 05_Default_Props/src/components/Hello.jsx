@@ -9,7 +9,7 @@ const Hello = (props) => {
     <div>
       <p>
         Hi {props.to} from {props.from}
-        {bangs}
+        {bangs} {props.data}
       </p>
       <img src={props.img} alt="" />
     </div>
@@ -17,7 +17,7 @@ const Hello = (props) => {
 };
 
 Hello.defaultProps = {
-  from: "Anonymous",
+  from: "<this atribute is missing>",
   bangs: 1,
 };
 
