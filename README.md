@@ -23,4 +23,4 @@ Icon is: fa-solid fa-dice- inside <i> tag in Die.jsx || <i class="fas fa-dice-on
 
 - Update state based off of existing state -> example ScoreKeeper.jsx
 - State updates for mutable data structure -> example IconList.jsx
-- Best practices to modeling state and designing components -> example
+- Best practices to modeling state and designing components /1.Minimaze your state. 2.State shoul live on the parent/ -> example ./lottery

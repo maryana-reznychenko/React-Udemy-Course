@@ -1,6 +1,7 @@
 import "./App.css";
 import IconList from "./components/IconList";
 import ScoreKeeper from "./components/ScoreKeeper";
+import Lottery from "./components/lottery/Lottery";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
       <br />
       <hr />
       <h2>Best practices to modeling state and designing components:</h2>
-
+      <Lottery />
+      <Lottery title="Mini Daily" maxNum={10} maxBalls={4} />
       <br />
       <hr />
     </div>

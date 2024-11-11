@@ -22,7 +22,9 @@ const IconList = () => {
     let newIcon = options[idx];
     setIcon([...icon, newIcon]);
   }
-  const icons = icon.map((i) => <i className={`fas fa-${i}`} />);
+  const icons = icon.map((i, index) => (
+    <i key={index} className={`fas fa-${i}`} />
+  ));
 
   return (
     <div>
