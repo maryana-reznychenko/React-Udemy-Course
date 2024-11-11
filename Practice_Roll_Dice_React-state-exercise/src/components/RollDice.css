@@ -1,0 +1,14 @@
+.RollDice button {
+  width: 15em;
+  padding: 1.5em;
+  border: 0;
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: rgb(31, 30, 30);
+  margin-top: 3em;
+}
+
+.RollDice button:hover {
+  background-color: rgb(40, 22, 161);
+  cursor: pointer;
+}
