@@ -22,5 +22,5 @@ Icon is: fa-solid fa-dice- inside <i> tag in Die.jsx || <i class="fas fa-dice-on
 10 - React State Patterns:\
 
 - Update state based off of existing state -> example ScoreKeeper.jsx
-- State updates for mutable data structure -> example
+- State updates for mutable data structure -> example IconList.jsx
 - Best practices to modeling state and designing components -> example
