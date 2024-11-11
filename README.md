@@ -19,7 +19,7 @@
 🎲 🎲 Practice -> Roll_Dice_React-state-exercise. useState and props. \
 Icons used from fontawesome.com. -> script embedded inside index.html. \
 Icon is: fa-solid fa-dice- inside <i> tag in Die.jsx || <i class="fas fa-dice-one"></i> fas fa-dice-one through fas fa-dice-six represent dice with different faces, 1-6.\
-10 - React State Patterns:\
+10 - React State Patterns:
 
 - Update state based off of existing state -> example ScoreKeeper.jsx
 - State updates for mutable data structure -> example IconList.jsx
