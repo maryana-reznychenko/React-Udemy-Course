@@ -14,14 +14,17 @@
 06 - Custom Hook |Section 32 #249| - useToggle on useState\
 07 - Custom Hook |Section 32 #250| - useInputState on useState to manage input behaviour\
 08 - useEffect hook |Section 32 #251|\
-08 - useEffect hook for API-calls or HTTP requests.|Section 32 #252| AXIOUS packages are used -> Promise based HTTP client for the browser and node.js\
+08 - useEffect hook for API-calls or HTTP requests.|Section 32 #252|\
+AXIOUS packages are used -> Promise based HTTP client for the browser and node.js\
+08 - useEffect_recup - recup of useEffect.
 
-09 - useEffect_copy - recup of useEffect. |Section 7|\
-🎲 🎲 Practice -> Roll_Dice_React-state-exercise. useState and props. \
+09 - 🎲 🎲 Practice -> Roll_Dice_React-state-exercise.|Section 7|\
+useState and props. \
+
 Icons used from fontawesome.com. -> script embedded inside index.html. \
 Icon is: fa-solid fa-dice- inside <i> tag in Die.jsx || <i class="fas fa-dice-one"></i> fas fa-dice-one through fas fa-dice-six represent dice with different faces, 1-6.\
 
-10 - React State Patterns |Section 8|:\
+10 - React State Patterns |Section 8|:
 
 - Update state based off of existing state |Section 8 #58| -> example ScoreKeeper.jsx
 - State updates for mutable data structure |Section 8 #59| -> example IconList.jsx
