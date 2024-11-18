@@ -1,3 +1,7 @@
+//- - - - - - - - - - - - - - - - - - - - - - -
+//STATE UPDATING for a mutable data structure:
+//- - - - - - - - - - - - - - - - - - - - - - -
+
 import { useState } from "react";
 
 const IconList = () => {

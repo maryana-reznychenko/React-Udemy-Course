@@ -1,3 +1,7 @@
+//- - - - - - - - - - - - - - - - - - - - - - -
+//Best practices to modeling state and designing components:
+//- - - - - - - - - - - - - - - - - - - - - - -
+
 //Props:
 //title: title of the lottery
 //numBalls: num of balls to display

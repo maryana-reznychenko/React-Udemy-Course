@@ -1,3 +1,7 @@
+//- - - - - - - - - - - - - - - - - - - - - - -
+//Update state based off of existing state
+//- - - - - - - - - - - - - - - - - - - - - - -
+
 import { useState } from "react";
 
 const ScoreKeeper = () => {
