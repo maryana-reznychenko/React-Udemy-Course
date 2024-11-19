@@ -8,6 +8,7 @@
 04 - Loops in React - .map() method.\
 04 - Events. onClick + useState.\
 04 - React Events. |Section 10 #69|. Example: onKeyUp, onCopy, onMouseEnter\
+04 - 04_React_Events_Buttons_Demo. React Events + useState. |Section 10 #73|\
 05 - .defaultProps\
 05 - Fruit_Modules -> Arrays[] + logic.\
 05 - Pokemon Game |Section 5|-> Props, arrays, conditional statement, logic, components hierarchy, styling.\
