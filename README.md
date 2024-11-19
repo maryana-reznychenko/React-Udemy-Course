@@ -7,6 +7,7 @@
 03 - Conditional rendering. Props.\
 04 - Loops in React - .map() method.\
 04 - Events. onClick + useState.\
+04 - React Events. |Section 10 #69|. Example: onKeyUp, onCopy, onMouseEnter\
 05 - .defaultProps\
 05 - Fruit_Modules -> Arrays[] + logic.\
 05 - Pokemon Game |Section 5|-> Props, arrays, conditional statement, logic, components hierarchy, styling.\
