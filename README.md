@@ -40,3 +40,11 @@ The exercies to practice working with props, default values, state, and simple c
 🟪 For this part, you should show a series of 16 boxes (a box is just square div with a background color).
 Initially, each box should have a background color chosen from a random list of colors.
 When you click any box: it should change its color to a different random color.
+
+### 20 - React Router:
+
+20_Rout_as_useState - to show a kind-of navigation, but we don't get:\
+❌ a different URL as we move around pages\
+❌ the ability to use the back/forward browser buttons\
+❌ any way to bookmark a "page" on the site\
+❌ more complex route/pattern matching\
