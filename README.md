@@ -43,8 +43,10 @@ When you click any box: it should change its color to a different random color.
 
 ### 20 - React Router:
 
-20_Rout_as_useState - to show a kind-of navigation, but we don't get:\
+20_Route_as_useState - to show a kind-of navigation, but we don't get:\
 ❌ a different URL as we move around pages\
 ❌ the ability to use the back/forward browser buttons\
 ❌ any way to bookmark a "page" on the site\
 ❌ more complex route/pattern matching\
+
+20_2_Route_as_Rout - <Link> vs <a href="">; <NavLink> when active for easier styling.
