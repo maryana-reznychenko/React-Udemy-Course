@@ -50,3 +50,9 @@ When you click any box: it should change its color to a different random color.
 ❌ more complex route/pattern matching\
 
 20_2_Route_as_Rout - <Link> vs <a href="">; <NavLink> when active for easier styling.
+
+### 21 - Vending Machine Exercise:
+
+- React Router and Routs basics;\
+- <Link> and <NavLink> navigation;\
+- props.children.\

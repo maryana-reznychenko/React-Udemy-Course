@@ -1,0 +1,14 @@
+.VendingMachine {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  padding: 0 1em;
+}
+a:hover {
+  text-decoration: underline;
+}
