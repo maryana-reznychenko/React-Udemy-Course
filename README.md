@@ -41,7 +41,7 @@ The exercies to practice working with props, default values, state, and simple c
 Initially, each box should have a background color chosen from a random list of colors.
 When you click any box: it should change its color to a different random color.
 
-### 20 - React Router:
+#### 20 - React Router:
 
 20_Route_as_useState - to show a kind-of navigation, but we don't get:\
 ❌ a different URL as we move around pages\
@@ -51,8 +51,18 @@ When you click any box: it should change its color to a different random color.
 
 20_2_Route_as_Rout - <Link> vs <a href="">; <NavLink> when active for easier styling.
 
-### 21 - Vending Machine Exercise:
+#### 21 - Vending Machine Exercise:
 
 - React Router and Routs basics;\
 - <Link> and <NavLink> navigation;\
 - props.children.\
+
+#### 22 - React_Router_Patterns:
+
+- Patterns to built routes in React;\
+- useParams() - hook to retrive url parameters from the current route;\
+- adding 404 page;\
+- search form - to take a user to another place on your webpage using <Link> and path inside it to show up in the url;\
+- Redirects in React Router - mimic the behaviour of SSR. Using <Navigate > from react-router-dom /under version #6 of react-router used <Redirect>, it is <Naigate> now/;\
+- <useNavigate>. The .push method on the history object is no longer available in React Router v6. React Router v6 introduced a new API that simplifies navigation and eliminates the history prop. Instead of history.push and <withRouter>, you now use the useNavigate hook to programmatically navigate between routes.
+- history.goBack() method has been replaced with the navigate(-1) method, which is provided by the useNavigate hook. This allows you to navigate back to the previous page in the browser's history stack.
