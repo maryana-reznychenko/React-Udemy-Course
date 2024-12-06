@@ -62,7 +62,7 @@ When you click any box: it should change its color to a different random color.
 - Patterns to built routes in React;\
 - useParams() - hook to retrive url parameters from the current route;\
 - adding 404 page;\
-- search form - to take a user to another place on your webpage using <Link> and path inside it to show up in the url;\
-- Redirects in React Router - mimic the behaviour of SSR. Using <Navigate > from react-router-dom /under version #6 of react-router used <Redirect>, it is <Naigate> now/;\
-- <useNavigate>. The .push method on the history object is no longer available in React Router v6. React Router v6 introduced a new API that simplifies navigation and eliminates the history prop. Instead of history.push and <withRouter>, you now use the useNavigate hook to programmatically navigate between routes.
+- search form - to take a user to another place on your webpage using <Link> and the path inside it to show up in the url;\
+- Redirects in React Router - mimic the behaviour of SSR. Using <Navigate > from react-router-dom /under version #6 of react-router used <Redirect>, it is <Navigate> now/;\
+- <useNavigate>. The .push method on the history object is no longer available in React Router v6. React Router v6 introduced a new API that simplifies navigation and eliminates the history prop. Instead of history.push and <withRouter>, now you use the useNavigate hook to programmatically navigate between routes.
 - history.goBack() method has been replaced with the navigate(-1) method, which is provided by the useNavigate hook. This allows you to navigate back to the previous page in the browser's history stack.

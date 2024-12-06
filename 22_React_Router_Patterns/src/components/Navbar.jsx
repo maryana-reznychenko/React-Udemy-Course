@@ -5,7 +5,7 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   function handleClick() {
-    alert("LOGGED YOU IN");
+    alert("LOGGED YOU INTO SALMON");
     navigate("/food/salmon");
     {
       /*allows to connect component to router in url whithout router path in APP.jsx */
@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <div className="Navbar">
       <button onClick={handleClick}>Log In</button>
-      <button onClick={handleGoBack}>go back</button>
+      <button onClick={handleGoBack}>Go Back</button>
     </div>
   );
 };
