@@ -1,0 +1,42 @@
+.DogList_dog img {
+  width: 75%;
+  filter: grayscale();
+  border-radius: 50%;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
+  transition: 0.4s all ease;
+}
+
+.DogList_dog:hover img {
+  filter: none;
+}
+
+.DogList_dog .underline {
+  border: 4px solid transparent;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1.4rem;
+  margin: 1rem;
+  position: relative;
+}
+
+.underline::after {
+  width: 0%;
+  height: 4px;
+  display: block;
+  background-color: white;
+  content: "";
+  position: absolute;
+  top: 2rem;
+  left: 50%;
+  transition: left 0.4s cubic-bezier(0.215, 0.61, 0.355, 1),
+    width 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.DogList_dog:hover .underline::after {
+  width: 100%;
+  top: 2rem;
+  left: 0%;
+}
