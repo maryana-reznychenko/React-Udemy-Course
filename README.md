@@ -66,3 +66,9 @@ When you click any box: it should change its color to a different random color.
 - Redirects in React Router - mimic the behaviour of SSR. Using <Navigate > from react-router-dom /under version #6 of react-router used <Redirect>, it is <Navigate> now/;\
 - <useNavigate>. The .push method on the history object is no longer available in React Router v6. React Router v6 introduced a new API that simplifies navigation and eliminates the history prop. Instead of history.push and <withRouter>, now you use the useNavigate hook to programmatically navigate between routes.
 - history.goBack() method has been replaced with the navigate(-1) method, which is provided by the useNavigate hook. This allows you to navigate back to the previous page in the browser's history stack.
+
+#### 23 - Router_Exercises:
+
+- the Dog Shelter project.
+- routes practice.
+- using Bootstrap - frontend component library - for styling and responsibility
