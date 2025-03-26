@@ -60,18 +60,18 @@ The exercies to practice working with props, default values, state, and simple c
 ### 20_Route_as_useState
 
 - to show a kind-of navigation, but we don't get:
-  ❌ a different URL as we move around pages
-  ❌ the ability to use the back/forward browser buttons
-  ❌ any way to bookmark a "page" on the site
-  ❌ more complex route/pattern matching\
+  - ❌ a different URL as we move around pages
+  - ❌ the ability to use the back/forward browser buttons
+  - ❌ any way to bookmark a "page" on the site
+  - ❌ more complex route/pattern matching\
 
-## 20_2_Route_as_Rout
+### 20_2_Route_as_Rout
 
-- <Link> vs <a href="">;
-- <NavLink> when active for easier styling.
+- `<Link>` vs `<a href="">`;
+- `<NavLink>` when active for easier styling.
 
 ### 21 - Vending Machine Exercise:
 
 - React Router and Routs basics;
-- <Link> and <NavLink> navigation;
+- `<Link>` and `<NavLink>` navigation;
 - props.children.
